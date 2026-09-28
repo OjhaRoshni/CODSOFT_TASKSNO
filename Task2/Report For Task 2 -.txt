@@ -1,0 +1,10 @@
+Report For Task 2 :-
+
+1.The dataset was successfully loaded and analysed.
+2.Missing values were identified and removed from the dataset
+3.Duplicate records were checked and removed.
+4.Descriptive  statistics were used to understand the numerical variable
+5.Histograms were used to understand the distribution of numerical data.
+6.A correlation heatmap was created to identify the relationship between the numerical variable
+7.Boxplots were used to identify possible outliers
+8.The EDA(Exploratory  Data Analysis) helped to identify the important patterns.relationship and unusual values in the dataset
