@@ -1,0 +1,28 @@
+
+
+The house_price_prediction dataset was analyzed using different
+visualization techniques.
+
+1. Bar Chart:
+   Used to compare the average price of different property types.
+
+2. Line Chart:
+   Used to observe how average house price changes with
+   the number of bedrooms.
+
+3. Pie Chart:
+   Used to understand the distribution of furnishing status.
+
+4. Histogram:
+   Used to understand the distribution of house prices.
+
+5. Scatter Plot:
+   Used to analyze the relationship between property area
+   and house price.
+
+6. Correlation Heatmap:
+   Used to identify relationships between numerical variables.
+
+These visualizations make the dataset easier to understand
+and help identify important patterns, trends, distributions,
+and relationships in the property data.
